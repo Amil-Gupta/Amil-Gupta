@@ -29,7 +29,7 @@
 
 ## I am _almost_ sure that I know
 
-### C/C++ | HTML | CSS | Python3 | Java | MySQL | Linux | Docker
+### C/C++ | Flutter | HTML | CSS | Python3 | Java | MySQL | Linux | Docker
 #### _and some other stuff_
 
 <br /><br /><br /><br />
