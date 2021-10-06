@@ -61,6 +61,6 @@
 &nbsp; &nbsp;
 <a href="amiluguptaa@gmail.com"><img height=60 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a>
 
-<br />
+<br /><br />
 
 <div align=center><img id=bye height=80 src="https://media.giphy.com/media/LpA6p1GOZgcj4z4wiL/giphy.gif" /></div>
