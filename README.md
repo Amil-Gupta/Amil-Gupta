@@ -63,7 +63,7 @@
 &nbsp; &nbsp;
 <a href="amiluguptaa@gmail.com"><img height=60 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a>
 
-<br />
+<br /><br />
 
 <div align=center>
  <hr width=40%/>
