@@ -42,7 +42,7 @@
 
 <img id=streak height=225em align=left src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
 
-<img id=github-stats src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
+<img id=github-stats align=right src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
 
 <br />
 
