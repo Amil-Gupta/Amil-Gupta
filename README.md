@@ -1,11 +1,11 @@
 ### Hi there 👋
 <p>
   <img align=left src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
-  <h2>I am Amil<h2>
+  <h1>I am Amil<h1>
   <i>naam to suna nahi hoga, its a rare one</i>
 </p>
   
-<p>
+<p display=inline>
   <img align= right src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> 
   <h1>Enthusiastic, egoistic, overthinker</h1>
 </p>
