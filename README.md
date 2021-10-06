@@ -5,10 +5,11 @@
   ## I am **Amil Utkarsh Gupta**
    ### _naam to suna nahi hoga, its a rare one_
 
-![kirito-gif](https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif)
+<img align=right src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
+
 ## Enthusiastic, egoistic, overthinker
 
-<img height=100 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
+<img height=200 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
 
 ## I am currently a third year B.Tech. student
 
