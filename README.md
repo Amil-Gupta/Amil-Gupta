@@ -5,6 +5,7 @@
   <i>naam to suna nahi hoga, its a rare one</i>
 </span>
 <hr><hr>
+<br><br>
 <span>
   <img align= right src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> 
   <h1>Enthusiastic, egoistic, overthinker</h1>
