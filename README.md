@@ -1,8 +1,8 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
 <div>
-  <p>I am Amil </p>
-  <p><i>naam to suna nahi hoga, its a rare one</i></p>
+  <h2>I am Amil </h2>
+  <h3><i>naam to suna nahi hoga, its a rare one</i></h3>
 </div>
 </img>
 
