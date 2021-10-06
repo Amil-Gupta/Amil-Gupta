@@ -1,5 +1,6 @@
-### Hi there 👋
 <img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" />
+
+### Hi there 👋
 
 ![shin-chan-gif](https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif)
   ## I am **Amil Utkarsh Gupta**
