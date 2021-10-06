@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif"></div>
 <div display=block>
-  <img align=left src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
+  <img align=left src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif">
   <h1 align=center>I am Amil<h1>
   <p height=7%><i>naam to suna nahi hoga, its a rare one</i></p?
 </div>
