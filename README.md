@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
-### I am Amil
+<h2>I am Amil<h2>
 <i>naam to suna nahi hoga, its a rare one</i>
 
 <br><br><br>
