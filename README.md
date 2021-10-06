@@ -31,6 +31,10 @@
 
 ### C/C++ | HTML | CSS | Python3 | Java | MySQL | Linux | Docker
 #### _and some other stuff_
+
+## Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
