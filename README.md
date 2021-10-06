@@ -1,12 +1,12 @@
 <div align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" /></div>
 
 <img align=left height=270 src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 
 ## I am **Amil Utkarsh Gupta**
  ### _naam to suna nahi hoga, its a rare one_
  
-<br /><br /><br />
+<br /><br />
 
 <img align=right height=250 src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
 <br /><br /><br />
