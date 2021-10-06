@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![screen-gif] https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif I am Amil (naam to suna nahi hoga, its a rare one)
+![screen-gif]https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif I am Amil (naam to suna nahi hoga, its a rare one)
 
-![screen-gif] https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif Enthusiastic, egoistic, overthinker
+![screen-gif]https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif Enthusiastic, egoistic, overthinker
 
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
