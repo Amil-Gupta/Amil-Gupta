@@ -10,7 +10,7 @@
 <img id=kirito align=right height=250 src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
 <br /><br /><br />
 
-## Enthusiastic - Egoistic - Overthinker
+## Smart - Enthusiastic - Overthinker
 ### sums me up _pretty_ well
 
 <br /><br />
