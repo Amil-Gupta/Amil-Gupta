@@ -63,4 +63,8 @@
 
 <br /><br />
 
-<div align=center><hr width=40%/><img id=bye height=80 src="https://media.giphy.com/media/LpA6p1GOZgcj4z4wiL/giphy.gif" /><hr width=40% /></div>
+<div align=center>
+ <hr width=40%/>
+ <img id=bye height=80 src="https://media.giphy.com/media/LpA6p1GOZgcj4z4wiL/giphy.gif" />
+ <hr width=40% />
+</div>
