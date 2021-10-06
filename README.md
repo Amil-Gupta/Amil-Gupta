@@ -12,8 +12,8 @@
 <br /><br /><br />
 
 ## - Enthusiastic
-## - egoistic
-## - overthinker
+- egoistic
+- overthinker
 
 <br /><br />
 
