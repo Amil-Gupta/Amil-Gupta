@@ -16,7 +16,7 @@
 <br /><br />
 
 <img id=work-pressure align=left height=225 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
-<br /><br />
+<br /><br /><br />
 
 ## I am currently a third year B.Tech. student
  ### Aspiring to contribute to better projects in better ways
