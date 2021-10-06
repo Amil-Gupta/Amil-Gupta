@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/64407800/136183762-2a66edf8-473a-4af8-b537-5783193bb18d.png)I am Amil (naam to suna nahi hoga, its a rare one)
+
+![image](https://user-images.githubusercontent.com/64407800/136183619-e472e084-e8e1-4b75-a54c-82b414fe492b.png)Enthusiastic, egoistic, overthinker
+
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
