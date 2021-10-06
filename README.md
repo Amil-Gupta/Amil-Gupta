@@ -8,7 +8,7 @@
 
 <br><br><br>
 
-![screen-gif](https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif) <div>Enthusiastic, egoistic, overthinker</div>
+<img src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> <div>Enthusiastic, egoistic, overthinker</div> </img>
 
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
