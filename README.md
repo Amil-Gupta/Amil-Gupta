@@ -40,11 +40,7 @@
 
 <br />
 
-<div width=100%>
- <img id=github-stats align=left height=50% width=50% src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia">
- <img id=streak align=right height=50% width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia">
- </img>
-</div>
+<img id=github-stats align=left height=50% width=50% src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia"> | <img id=streak align=right height=50% width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia">
 
 <br /><br /><br />
 
