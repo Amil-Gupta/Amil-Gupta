@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-![shin-chan-gif](https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif)
+<img align=left src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
   ## I am **Amil Utkarsh Gupta**
    ### _naam to suna nahi hoga, its a rare one_
 
