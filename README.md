@@ -19,7 +19,7 @@
 <br /><br />
 
 ## I am currently a third year B.Tech. student
-## Aspiring to contribute to better projects in better ways
+### Aspiring to contribute to better projects in better ways
 
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
