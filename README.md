@@ -1,13 +1,13 @@
-<div align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" /></div>
+<div align=center><img id=hello align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" /></div>
 
-<img align=left height=270 src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
+<img id=shin-chan align=left height=270 src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
 
 ## I am **Amil Utkarsh Gupta**
  ### _naam to suna nahi hoga, its a rare one_
  
 <br /><br /><br />
 
-<img align=right height=250 src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
+<img id=kirito align=right height=250 src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
 <br /><br /><br />
 
 ## Enthusiastic - Egoistic - Overthinker
@@ -15,15 +15,15 @@
 
 <br /><br />
 
-<img align=left height=225 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
+<img id=work-pressure align=left height=225 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
 <br /><br />
 
 ## I am currently a third year B.Tech. student
 ### Aspiring to contribute to better projects in better ways
 
-<br /><br />
+<br /><br /><br />
 
-<img align=right src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+<img id=program-error align=right src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
 ## I am _almost_ sure that I know
 
