@@ -6,7 +6,7 @@
 <br><br><br>
 
 <img align= right src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> 
-  <h3 align=left>Enthusiastic, egoistic, overthinker</h3>
+  <h1> align=left>Enthusiastic, egoistic, overthinker</h3>
 
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
