@@ -51,6 +51,10 @@
 
 <img id=graph src="https://activity-graph.herokuapp.com/graph?username=Amil-Gupta&bg_color=000000&color=E8E500&line=F8F2CB&point=9FD410&hide_border=true">
 
+## Came this far? Might as well follow me 😃
+
+<a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height="35" src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif"></a>
+     <br>
 
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
