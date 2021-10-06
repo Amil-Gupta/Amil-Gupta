@@ -1,7 +1,6 @@
 <div align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" /></div>
 
 <img align=left height=270 src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
-<br /><br />
 
 ## I am **Amil Utkarsh Gupta**
  ### _naam to suna nahi hoga, its a rare one_
