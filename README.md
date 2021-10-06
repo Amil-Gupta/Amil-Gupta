@@ -19,7 +19,7 @@
 <br /><br />
 
 ## I am currently a third year B.Tech. student
-### Aspiring to contribute to better projects in better ways
+ ### Aspiring to contribute to better projects in better ways
 
 <br /><br />
 
