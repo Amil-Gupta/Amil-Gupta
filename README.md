@@ -41,9 +41,9 @@
 <br />
 
 <p>
- &nbsp
+ &nbsp;
  <img id=github-stats width=410em src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
- &nbsp &nbsp
+ &nbsp; &nbsp;
  <img id=streak  width=410em src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
 </p>
 
@@ -54,8 +54,11 @@
 ## Came this far? Might as well follow me further 😃
 
 <a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height=50 src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /></a>
+&nbsp; &nbsp;
 <a href="https://www.facebook.com/amil.gupta.01"><img height=50 src="https://media.giphy.com/media/K1K08nCJltl2ZqyE7a/giphy.gif" /></a>
+&nbsp; &nbsp;
 <a href="https://t.me/Amil_Gupta"><img height=45 src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /></a>
+&nbsp; &nbsp;
 <a href="amiluguptaa@gmail.com"><img height=60 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a>
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
