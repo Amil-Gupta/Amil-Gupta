@@ -38,9 +38,9 @@
 
 <img id=lang-counts src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amil-Gupta&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" />
 
-<img id=streak height=50% src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
+<img id=streak src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
 
-<img id=github-stats src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia"/>
+<img id=github-stats src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
