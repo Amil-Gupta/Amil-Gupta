@@ -7,7 +7,7 @@
   
 <p>
   <img align= right src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> 
-  <h1>Enthusiastic, egoistic, overthinker</h3>
+  <h1>Enthusiastic, egoistic, overthinker</h1>
 </p>
 
 <!--
