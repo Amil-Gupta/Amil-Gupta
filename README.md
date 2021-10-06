@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif"></div>
+<div display=block align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif"></div>
 <p display=block>
   <img align=left src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif">
   <h1 align=center>I am Amil<h1>
