@@ -25,11 +25,8 @@
 
 ## I am _quite_ sure that I know
 
-### - C/C++
-### - HTML
-### - CSS
-### - Python3
-### - Java
+### C/C++ | HTML | CSS | Python3 | Java | MySQL | Linux | Docker
+#### _among others_
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
