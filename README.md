@@ -42,6 +42,7 @@
 
 <p float=left>
  <img id=github-stats width=410em src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
+ &nbsp
  <img id=streak  width=410em src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
 </p>
 
