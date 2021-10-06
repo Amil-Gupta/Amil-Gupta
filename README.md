@@ -3,7 +3,7 @@
 <span>
   <img align=left src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
   <h1 align=center>I am Amil<h1>
-  <p><i>naam to suna nahi hoga, its a rare one</i></p?
+  <p size=1%><i>naam to suna nahi hoga, its a rare one</i></p?
 </span>
 <hr><hr>
 <br><br>
