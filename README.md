@@ -21,12 +21,14 @@
 ## I am currently a third year B.Tech. student
 ### Aspiring to contribute to better projects in better ways
 
+<br /><br />
+
 <img align=right src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
-## I am _quite_ sure that I know
+## I am _almost_ sure that I know
 
 ### C/C++ | HTML | CSS | Python3 | Java | MySQL | Linux | Docker
-#### _among others_
+#### _and some other stuff_
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
