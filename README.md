@@ -5,7 +5,7 @@
 
 <br><br><br>
 
-Enthusiastic, egoistic, overthinker
+  <h3 align=left>Enthusiastic, egoistic, overthinker</h3>
 <img align= right src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> 
 
 <!--
