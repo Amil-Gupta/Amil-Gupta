@@ -8,6 +8,9 @@
 ![kirito-gif](https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif)
 ## Enthusiastic, egoistic, overthinker
 
+![work-pressure-gif](https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif)
+## I am currently a third year B.Tech. student
+
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
