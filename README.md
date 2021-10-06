@@ -38,9 +38,15 @@
 
 <img id=lang-counts src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amil-Gupta&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" />
 
+<br />
+
 <img id=streak height=225em src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
 
-<img id=github-stats align=center src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
+<br />
+
+<img id=github-stats src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
+
+<br />
 
 <img id=graph src="https://activity-graph.herokuapp.com/graph?username=Amil-Gupta&bg_color=000000&color=E8E500&line=F8F2CB&point=9FD410&hide_border=true">
 <!--
