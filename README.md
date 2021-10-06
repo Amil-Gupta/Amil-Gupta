@@ -2,13 +2,13 @@
 <div align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif"></div>
 
 <img align=left src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
-## I am **Amil Utkarsh Gupta** \
-### _naam to suna nahi hoga, its a rare one_ \
+## I am **Amil Utkarsh Gupta**
+### _naam to suna nahi hoga, its a rare one_
 
     
 
 <img align= right src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" /> 
-## Enthusiastic, egoistic, overthinker \
+## Enthusiastic, egoistic, overthinker
 
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
