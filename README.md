@@ -55,8 +55,6 @@
 
 ## Came this far? Might as well follow me further 😃
 
-<br />
-
 <a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height=50 src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /></a>
 &nbsp; &nbsp;
 <a href="https://www.facebook.com/amil.gupta.01"><img height=50 src="https://media.giphy.com/media/K1K08nCJltl2ZqyE7a/giphy.gif" /></a>
