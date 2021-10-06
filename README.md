@@ -53,7 +53,7 @@
 
 ## Came this far? Might as well follow me 😃
 
-<a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height="35" src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif"></a>
+<a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height="35" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"></a>
      <br>
 
 <!--
