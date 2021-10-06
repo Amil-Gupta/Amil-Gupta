@@ -51,7 +51,7 @@
 
 <img id=graph src="https://activity-graph.herokuapp.com/graph?username=Amil-Gupta&bg_color=000000&color=E8E500&line=F8F2CB&point=9FD410&hide_border=true">
 
-## Came this far? Might as well follow me 😃
+## Came this far? Might as well follow me further 😃
 
 <a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height=35 src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif"></a>
 <a href="https://www.facebook.com/amil.gupta.01"><img height=35 src="https://media.giphy.com/media/K1K08nCJltl2ZqyE7a/giphy.gif"></a>
