@@ -8,7 +8,7 @@
 <br>
 <br>
 <div display=block>
-  <img align= right src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> 
+  <img align= right src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif"> 
   <h1>Enthusiastic, egoistic, overthinker</h1>
 </div>
 
