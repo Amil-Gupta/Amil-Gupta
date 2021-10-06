@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div display=block align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif"></div>
-<p display=block>
+<div align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif"></div>
+<p style="display:block">
   <img align=left src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif">
   <h1 align=center>I am Amil<h1>
   <p height=7%><i>naam to suna nahi hoga, its a rare one</i></p?
