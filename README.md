@@ -4,8 +4,9 @@
 
 <img align=left src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
 <br /><br />
-  ## I am **Amil Utkarsh Gupta**
-   ### _naam to suna nahi hoga, its a rare one_
+
+## I am **Amil Utkarsh Gupta**
+ ### _naam to suna nahi hoga, its a rare one_
 
 <img align=right height=250 src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
 <br /><br /><br />
