@@ -1,14 +1,11 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
-<div>
-  <p style="font-size:20px;">I am Amil </p>
-  <p style="font-size:15px"><i>naam to suna nahi hoga, its a rare one</i></p>
-</div>
-</img>
+###I am Amil
+##<i>naam to suna nahi hoga, its a rare one</i>
 
 <br><br><br>
 
-<img src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> <div>Enthusiastic, egoistic, overthinker</div> </img>
+<img src="https://media.giphy.com/media/xULW8xIYmhTWW3Rv0Y/giphy.gif"> Enthusiastic, egoistic, overthinker
 
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
