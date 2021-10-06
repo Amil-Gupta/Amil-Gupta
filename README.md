@@ -13,6 +13,8 @@
 
 ## Enthusiastic, egoistic, overthinker
 
+<br /><br />
+
 <img align=left height=225 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
 <br /><br />
 
