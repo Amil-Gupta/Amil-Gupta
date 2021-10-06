@@ -2,7 +2,7 @@
 <img align=left src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
 <h2>I am Amil<h2>
 <i>naam to suna nahi hoga, its a rare one</i>
-
+  </img>
 <br><br><br>
 
   <h3 align=left>Enthusiastic, egoistic, overthinker</h3>
