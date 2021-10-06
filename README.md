@@ -15,7 +15,7 @@
 
 ## Enthusiastic, egoistic, overthinker
 
-<img align=left height=200 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
+<img align=left height=225 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
 <br /><br />
 
 ## I am currently a third year B.Tech. student
