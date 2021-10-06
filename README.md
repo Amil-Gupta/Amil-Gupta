@@ -40,7 +40,10 @@
 
 <br />
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia) ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia)
+<p float=left>
+ <img id=github-stats width=50% src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
+ <img id=streak  width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
+</p>
 
 <br /><br /><br />
 
