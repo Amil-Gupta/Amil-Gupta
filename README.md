@@ -63,4 +63,4 @@
 
 <br />
 
-<img id=bye height=80 src="https://media.giphy.com/media/LpA6p1GOZgcj4z4wiL/giphy.gif" />
+<center><img id=bye height=80 src="https://media.giphy.com/media/LpA6p1GOZgcj4z4wiL/giphy.gif" /></center>
