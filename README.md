@@ -1,9 +1,10 @@
 ### Hi there 👋
+<img src="https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif">
 <div>
-  ![screen-gif](https://media.giphy.com/media/jOV609ljhCAK1tba6u/giphy.gif)
   <div>I am Amil </div>
   <p><i>naam to suna nahi hoga, its a rare one</i></p>
 </div>
+</img>
 
 <br><br><br>
 
