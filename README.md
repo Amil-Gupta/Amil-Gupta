@@ -53,10 +53,9 @@
 
 ## Came this far? Might as well follow me further 😃
 
+<a href="amiluguptaa@gmail.com"><img height=50 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a>
 <a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height=50 src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /></a>
 <a href="https://www.facebook.com/amil.gupta.01"><img height=50 src="https://media.giphy.com/media/K1K08nCJltl2ZqyE7a/giphy.gif" /></a>
-<a href="amiluguptaa@gmail.com"><img height=50 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a>
-
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
