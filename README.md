@@ -8,7 +8,8 @@
 ![kirito-gif](https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif)
 ## Enthusiastic, egoistic, overthinker
 
-![work-pressure-gif](https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif)
+<img height=100 src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
+
 ## I am currently a third year B.Tech. student
 
 <!--
