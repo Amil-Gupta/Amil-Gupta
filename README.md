@@ -1,7 +1,5 @@
 <div align=center><img align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" /></div>
 
-### Hi there 👋
-
 <img align=left src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
 <br /><br />
 
