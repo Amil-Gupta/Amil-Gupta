@@ -11,7 +11,7 @@
 <img align=right height=250 src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
 <br /><br /><br />
 
-## - Enthusiastic - egoistic - overthinker
+## Enthusiastic - Egoistic - Overthinker
 
 <br /><br />
 
