@@ -1,4 +1,4 @@
-<div align=center><img id=hello align=center src="https://media.giphy.com/media/WsvbZxS6Se8wAa41p2/giphy.gif" /></div>
+<div align=center><img id=hello align=center src="https://media.giphy.com/media/Cg9oeBXqFayCq26ggf/giphy.gif" /></div>
 
 <img id=shin-chan align=left height=270 src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
 
@@ -50,6 +50,8 @@
 <br /><br /><br />
 
 <img id=graph src="https://activity-graph.herokuapp.com/graph?username=Amil-Gupta&bg_color=000000&color=E8E500&line=F8F2CB&point=9FD410&hide_border=true">
+
+
 <!--
 **Amil-Gupta/Amil-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
