@@ -40,7 +40,7 @@
 
 <br />
 
-<p float=left>
+<p>
  &nbsp
  <img id=github-stats width=410em src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
  &nbsp &nbsp
