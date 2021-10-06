@@ -40,10 +40,11 @@
 
 <br />
 
-<img id=streak align=left src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
+<div>
+ <img id=streak align=left src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=algolia" />
 
-<img id=github-stats align=right src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
-
+ <img id=github-stats align=right src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=algolia" />
+</div>
 <br />
 
 <img id=graph src="https://activity-graph.herokuapp.com/graph?username=Amil-Gupta&bg_color=000000&color=E8E500&line=F8F2CB&point=9FD410&hide_border=true">
