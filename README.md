@@ -8,7 +8,7 @@
  
 <br /><br /><br />
 
-<img align=right height=250 src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
+<div align=center> <img align=right height=250 src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" /> </div>
 <br /><br /><br />
 
 ## Enthusiastic, egoistic, overthinker
