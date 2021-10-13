@@ -48,7 +48,7 @@
 
 <br /><br /><br />
 
-<img id=graph src="https://activity-graph.herokuapp.com/graph?username=Amil-Gupta&bg_color=281e30&color=fcfeffline=0c451a&point=9FD410&hide_border=true">
+<img id=graph src="https://activity-graph.herokuapp.com/graph?username=Amil-Gupta&bg_color=281e30&color=fcfeff&line=0c451a&point=9FD410&hide_border=true">
 
 <br /><br />
 
