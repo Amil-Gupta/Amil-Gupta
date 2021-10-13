@@ -41,9 +41,9 @@
 <br />
 
 <p>
- <img id=github-stats width=495em src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=nord&count_private=true" />
+ <img id=github-stats width=493em src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=nord&count_private=true" />
  &nbsp;
- <img id=streak  width=495em src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=nord" />
+ <img id=streak  width=493em src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=nord" />
 </p>
 
 <br /><br />
