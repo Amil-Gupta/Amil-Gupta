@@ -1,6 +1,6 @@
 <div align=center><img id=hello align=center src="https://media.giphy.com/media/Cg9oeBXqFayCq26ggf/giphy.gif" /></div>
 
-<img id=shin-chan align=left height=300em width=300em src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
+<img id=shin-chan align=left height=310em width=310em src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
 
 <br /><br />
 
