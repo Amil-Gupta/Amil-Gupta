@@ -46,7 +46,7 @@
  <img id=streak  width=495em src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=nord" />
 </p>
 
-<br /><br /><br />
+<br /><br />
 
 <div align=center>
  <img id=graph width=90% src="https://activity-graph.herokuapp.com/graph?username=Amil-Gupta&bg_color=281e30&color=fcfeff&line=166e3a&point=9FD410&hide_border=true">
