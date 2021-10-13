@@ -58,13 +58,13 @@
 
 ## Came this far? Might as well follow me further 😃
 
-<-- a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height=50 src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /></a -->
+<a href="https://www.linkedin.com/in/amil-gupta-206b3a1a5/"><img height=50 src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" /></a>
 &nbsp; &nbsp;
-<-- a href="https://www.facebook.com/amil.gupta.01"><img height=50 src="https://media.giphy.com/media/K1K08nCJltl2ZqyE7a/giphy.gif" /></a -->
+<a href="https://www.facebook.com/amil.gupta.01"><img height=50 src="https://media.giphy.com/media/K1K08nCJltl2ZqyE7a/giphy.gif" /></a>
 &nbsp; &nbsp;
-<-- a href="https://t.me/Amil_Gupta"><img height=45 src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /></a -->
+<a href="https://t.me/Amil_Gupta"><img height=45 src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /></a>
 &nbsp; &nbsp;
-<-- a href="mailto: amiluguptaa@gmail.com"><img height=60 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a -->
+<a href="mailto: amiluguptaa@gmail.com"><img height=60 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a>
 
 <br /><br />
 
