@@ -23,7 +23,7 @@
 
 <br /><br />
 
-<img id=program-error height=350 align=right src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+<img id=program-error height=300em align=right src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
 <br /><br />
 
