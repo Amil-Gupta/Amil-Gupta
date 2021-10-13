@@ -23,7 +23,7 @@
 ## I am currently a third year B.Tech. student
  ### Aspiring to contribute to better projects in better ways
 
-<br /><br /><br />
+<br /><br />
 
 <img id=program-error height=350em width=300em align=right src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
