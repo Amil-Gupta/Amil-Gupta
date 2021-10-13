@@ -25,7 +25,7 @@
 
 <br /><br />
 
-<img id=program-error height=350em width=300em align=right src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+<img id=program-error height=350em width=350em align=right src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" />
 
 <br /><br />
 
