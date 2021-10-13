@@ -60,7 +60,7 @@
 &nbsp; &nbsp;
 <a href="https://t.me/Amil_Gupta"><img height=45 src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" /></a>
 &nbsp; &nbsp;
-<a href="amiluguptaa@gmail.com"><img height=60 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a>
+<a href="mailto: amiluguptaa@gmail.com"><img height=60 src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" /></a>
 
 <br /><br />
 
