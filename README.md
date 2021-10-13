@@ -36,7 +36,7 @@
 
 ## Stats
 
-<img id=lang-counts width=100% height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amil-Gupta&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" />
+<img id=lang-counts width=100% height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amil-Gupta&langs_count=8&layout=compact&bg_color=415473&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" />
 
 <br />
 
