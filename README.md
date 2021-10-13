@@ -7,7 +7,7 @@
  
 <br /><br /><br />
 
-<img id=kirito align=right height=270em width=4000em src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
+<img id=kirito align=right height=270em src="https://media.giphy.com/media/W63CLeKr6wXIOpbDdA/giphy.gif" />
 <br /><br /><br />
 
 ## Smart - Enthusiastic - Overthinker
