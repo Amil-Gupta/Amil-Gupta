@@ -17,7 +17,7 @@
 
 <br /><br /><br />
 
-<img id=work-pressure align=left height=290em width=370em src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
+<img id=work-pressure align=left height=280em width=350em src="https://media.giphy.com/media/kf8bMrmElVACLbFCDg/giphy.gif" />
 <br /><br />
 
 ## I am currently a third year B.Tech. student
