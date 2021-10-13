@@ -1,8 +1,8 @@
 <div align=center><img id=hello align=center src="https://media.giphy.com/media/Cg9oeBXqFayCq26ggf/giphy.gif" /></div>
 
-<img id=shin-chan align=left height=270em src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
+<img id=shin-chan align=left height=270em width=140em src="https://media.giphy.com/media/SFRLNAQkWfRHIMNC3A/giphy.gif" />
 
-<br /><br />
+<br />
 
 ## I am **Amil Utkarsh Gupta**
  ### _naam to suna nahi hoga, its a rare one_
