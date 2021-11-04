@@ -44,6 +44,7 @@
 
 <p>
  <img id=github-stats width=400em src="https://github-readme-stats.vercel.app/api?username=Amil-Gupta&show_icons=true&theme=nord&count_private=true" />
+ &nbsp;
  <img id=streak  width=400em src="https://github-readme-streak-stats.herokuapp.com/?user=Amil-Gupta&theme=nord" />
 </p>
 
