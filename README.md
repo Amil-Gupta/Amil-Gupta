@@ -31,7 +31,7 @@
 
 ## I am _almost_ sure that I know
 
-### C/C++ | Flutter | HTML | CSS | ReactJS | Python3 | Java | MySQL | Linux | Docker
+### C/C++ | Flutter | HTML | CSS | ReactJS | Angular | Python3 | Java | SprinBoot | MySQL | Linux | Docker
 #### _and some other stuff_
 
 <br /><br />
